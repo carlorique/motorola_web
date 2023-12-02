@@ -1,0 +1,16 @@
+body {
+  background-color: #75d6da;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 0;
+  display: center;
+}
+
+.header{
+  color: white;
+}
+
+a { 
+  color:black;
+  font-weight: bold;
+}
